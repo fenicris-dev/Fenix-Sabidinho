@@ -1,7 +1,7 @@
 {
-  "name": "Fênix | Leitura",
-  "short_name": "Leitura",
-  "description": "Catálogo de livros, tempo de leitura e resumos por capítulo",
+  "name": "Fênix | O Sabidinho",
+  "short_name": "Sabidinho",
+  "description": "Cada livro lido, um novo conhecimento conquistado.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
